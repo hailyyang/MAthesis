@@ -1,0 +1,2 @@
+total_stakes (details of each column, dtype)
+median_total_rewards
